@@ -17,7 +17,7 @@ dosyaları bulunmaktadır.
 
 
 
-## Projede Otomatik Arka Plan  
+## Projede Değişen Arka Plan Rengi
 
 Arka plan değiştirme kodları **CSS** klasörü içerisindeki **style.css** dosyasında bulunmaktadır.
 
