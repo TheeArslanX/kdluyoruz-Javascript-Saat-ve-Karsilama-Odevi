@@ -13,13 +13,12 @@ dosyaları bulunmaktadır.
 
 ## Repository Oluşturma İşlemi
 
-<img src="C:\Users\cruse\Desktop\1.png" alt="github"  /> 
+
 
 ## Projede Arka Plan Otomatik Olarak değişmektedir
 
 Arka plan değiştirme kodları **CSS** klasörü içerisindeki **style.css** dosyasında bulunmaktadır.
 
-<img src="C:\Users\cruse\Desktop\GIF.gif" alt="github" style="zoom: 50%;" />
 
 
 ## İnstallation
