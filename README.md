@@ -13,11 +13,15 @@ dosyaları bulunmaktadır.
 
 ## Repository Oluşturma İşlemi
 
+![github](https://github.com/TheeArslanX/kodluyoruz-Javascript-Saat-ve-Karsilama-Odevi/blob/main/img/1.png)
+
 
 
 ## Projede Arka Plan Otomatik Olarak değişmektedir
 
 Arka plan değiştirme kodları **CSS** klasörü içerisindeki **style.css** dosyasında bulunmaktadır.
+
+![github](https://github.com/TheeArslanX/kodluyoruz-Javascript-Saat-ve-Karsilama-Odevi/blob/main/img/GIF.gif)
 
 
 
@@ -49,4 +53,3 @@ code .
 - **GitHub:** [`TheeArslanX`](https://github.com/TheeArslanX)
 - **Linkedin:** [`Yunus Emre ARSLAN`](https://linkedin.com/in/yunusemrearslan1/)
 - **Patika:** [`Yunus Emre Arslan`](https://app.patika.dev/theearslan)
-
